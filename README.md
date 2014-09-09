@@ -11,9 +11,7 @@ This MobileCacheTool can extract selected features or features in a specified st
 This version works for ArcGIS Mobile 10.x cache. Other versions are available here:
 
 10.0 at: http://www.arcgis.com/home/item.html?id=30280910f8a1441d8cb962e6225ebd2d
-
 10.1.1 at : https://github.com/EsriCanada/mobileCache2Shape1011
-
 10.2 at: https://github.com/EsriCanada/mobileCache2Shape102
 
 This tool relays on ArcGIS Mobile 10.1.1 and ArcGIS Desktop 10.1.1 (need to have both mobile and desktop installed). 
